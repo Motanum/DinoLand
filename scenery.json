@@ -1,0 +1,202 @@
+﻿{
+  "Bone Bench": {
+    "model": "SM_BoneBench",
+    "type": "seatingAuto",
+    "price": 5.0,
+    "seatingOptions": {
+      "seatCount": 2.0,
+      "hasBackRest": false
+    }
+  },
+  "Brontosaurus": {
+    "model": "SM_Brontosaurus",
+    "type": "deco",
+    "price": 50.0,
+    "grid": false
+  },
+  "Brontosaurus (Grid)": {
+    "model": "SM_Brontosaurus_1Tile",
+    "type": "deco",
+    "price": 50.0,
+    "grid": true
+  },
+  "Dino Cage": {
+    "model": "SM_DinoCage",
+    "type": "deco",
+    "price": 20.0,
+    "grid": true
+  },
+  "Dino Cage Broken": {
+    "model": "SM_DinoCage_Broken",
+    "type": "deco",
+    "price": 20.0,
+    "grid": true
+  },
+  "Dino Poop": {
+    "model": "SM_DinoPoop",
+    "type": "deco",
+    "price": 20.0
+  },
+  "Dino Rib Cage": {
+    "model": "SM_DinoRibCage",
+    "type": "deco",
+    "price": 25.0
+  },
+  "Dinosaur Sign": {
+    "model": "SM_DinosaurSign",
+    "type": "deco",
+    "price": 20.0,
+    "recolorable": true,
+    "recolorableOptions": {
+      "color1": "#ff0000"
+    }
+  },
+  "Egg Trash Can A": {
+    "model": "SM_EggTrashCan",
+    "type": "trashbin",
+    "price": 5.0
+  },
+  "Egg Trash Can B": {
+    "model": "SM_EggTrashCan_b",
+    "type": "trashbin",
+    "price": 5.0
+  },
+  "Jurassic Fence": {
+    "type": "fence",
+    "fenceOptions": {
+      "hasPost": true,
+      "flat": "SM_JurassicFence",
+      "post": "SM_JurassicFencePost"
+    }
+    "price": 10.0
+  },
+  "Jurassic Fence Broken": {
+    "type": "fence",
+    "fenceOptions": {
+      "hasPost": true,
+      "flat": "SM_JurassicFence_Broken",
+      "post": "SM_JurassicFencePost"
+    }
+    "price": 10.0
+  },
+  "Jurassic Gate Left": {
+    "model": "SM_JurassicGate_L",
+    "type": "deco",
+    "price": 30.0,
+    "grid": true
+  },
+  "Jurassic Gate Right": {
+    "model": "SM_JurassicGate_R",
+    "type": "deco",
+    "price": 30.0,
+    "grid": true
+  },
+  "Palm Tree": {
+    "model": "SM_PalmTree",
+    "type": "deco",
+    "price": 50.0
+  },
+  "Palm Tree (Big)": {
+    "model": "SM_PalmTree_Big",
+    "type": "deco",
+    "price": 50.0
+  },
+  "Stegosaurus": {
+    "model": "SM_Stegosaurus",
+    "type": "deco",
+    "price": 50.0
+  },
+  "Velociraptor": {
+    "model": "SM_Velociraptor",
+    "type": "deco",
+    "price": 50.0
+  },
+  "Jurrasic Wooden Fence": {
+    "type": "fence",
+    "fenceOptions": {
+      "hasPost": true,
+      "flat": "SM_WoodenFence",
+      "post": "SM_WoodenFencePost"
+    },
+    "price": 10.0
+  },
+  "Fern Plant": {
+    "model": "SM_FernPlant",
+    "type": "deco",
+    "price": 10.0,
+    "recolorable": true
+  },
+  "Tyranausaur Rex": {
+    "model": "SM_TRex",
+    "type": "deco",
+    "price": 50.0
+  },
+  "Cement Step Fence": {
+    "type": "fence",
+    "price": 5.0,
+    "fenceOptions": {
+      "hasPost": true,
+      "flat": "SM_CementStepFence",
+      "post": "SM_CementStepFence_Post"
+    }
+  },
+  "Bush Fence": {
+    "type": "fence",
+    "fenceOptions": {
+      "hasPost": false,
+      "flat": "SM_BushFence",
+      "post": "SM_HiddenFencePost"
+    },
+    "price": 10.0
+  },
+  "Dinosaur Footprint": {
+    "model": "SM_DinoFootPrint",
+    "type": "deco",
+    "price": 2.5,
+    "recolorable": true,
+    "recolorableOptions": {
+      "color1": "#644D25"
+    }
+  },
+  "Dinosaur Footprint (Small)": {
+    "model": "SM_DinoFootPrint_small",
+    "type": "deco",
+    "price": 2.0,
+    "recolorable": true,
+    "recolorableOptions": {
+      "color1": "#644D25"
+    }
+  },
+  "Big Long Grass": {
+    "model": "SM_BigTallGrass",
+    "type": "deco",
+    "price": 7.5
+  },
+  "Bread Palm Plant": {
+    "model": "SM_BreadPalm",
+    "type": "deco",
+    "price": 5.0
+  },
+  "Dino Floor Bush": {
+    "model": "SM_DinoFloorBush",
+    "type": "deco",
+    "price": 5.0
+  },
+  "Dino Signage": {
+    "model": "SM_DinoSignage",
+    "type": "deco",
+    "price": 10.0,
+    "recolorable": true,
+    "recolorableOptions": {
+      "color1": "#686868",
+      "color2": "#D18330",
+      "color3": "#D1D1D1"
+    }
+  },
+  "Jurassic Arrow Post": {
+    "model": "SM_JurassicArrowPost",
+    "type": "deco",
+    "price": 10.0
+  }
+}
+

@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 1557479155
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0d91b441ea99a35b4bfb08595ebd1a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25d46138f9c32e46e275d41d911da9d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Props/DinoLand/SM_Stegosaurus.FBX
+- Assets/Props/DinoLand/SM_FernPlant.FBX
+- Assets/Props/DinoLand/SM_JurassicGate_L.FBX
+- Assets/Props/DinoLand/SM_Brontosaurus.FBX
+- Assets/Props/DinoLand/SM_WoodenFencePost.FBX
+- Assets/Props/DinoLand/SM_Velociraptor.FBX
+- Assets/Props/DinoLand/SM_HiddenFencePost.FBX
+- Assets/Props/DinoLand/SM_JurassicArrowPost.FBX
+- Assets/Props/DinoLand/SM_BushFence.FBX
+- Assets/Props/DinoLand/SM_JurassicFencePost.FBX
+- Assets/Props/DinoLand/SM_DinoRibCage.FBX
+- Assets/Props/DinoLand/SM_CementStepFence_Post.FBX
+- Assets/Props/DinoLand/SM_JurassicGate_R.FBX
+- Assets/Props/DinoLand/SM_DinoFootPrint_Small.FBX
+- Assets/Props/DinoLand/SM_CementStepFence.FBX
+- Assets/Props/DinoLand/SM_DinoCage.FBX
+- Assets/Props/DinoLand/SM_DinoFootPrint.FBX
+- Assets/Props/DinoLand/SM_PalmTree.FBX
+- Assets/Props/DinoLand/SM_DinoSignage.FBX
+- Assets/Props/DinoLand/SM_EggTrashCan.FBX
+- Assets/Props/DinoLand/SM_Brontosaurus_1Tile.FBX
+- Assets/Props/DinoLand/SM_DinoPoop.FBX
+- Assets/Props/DinoLand/SM_JurassicFence.FBX
+- Assets/Props/DinoLand/SM_WoodenFence.FBX
+- Assets/Props/DinoLand/SM_TRex.FBX
+- Assets/Props/DinoLand/SM_BoneBench.FBX
+- Assets/Props/DinoLand/SM_DinoCage_Broken.FBX
+- Assets/Props/DinoLand/SM_BreadPalm.FBX
+- Assets/Props/DinoLand/SM_DinoFloorBush.FBX
+- Assets/Props/DinoLand/SM_PalmTree_Big.FBX
+- Assets/Props/DinoLand/SM_JurassicFence_Broken.FBX
+- Assets/Props/DinoLand/SM_EggTrashCan_b.FBX
+- Assets/Props/DinoLand/SM_BigTallGrass.FBX
+- Assets/Props/DinoLand/SM_DinosaurSign.FBX
+Dependencies: []
