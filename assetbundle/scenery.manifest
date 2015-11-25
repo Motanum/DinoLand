@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3344235000
+CRC: 4183752808
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6d058e71ac255a515654278069e8e88b
+    Hash: c922e4d2c64752a8c27b8109622d85d4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 25d46138f9c32e46e275d41d911da9d1
@@ -36,11 +36,13 @@ Assets:
 - Assets/Props/DinoLand/SM_FernPlant.FBX
 - Assets/Props/DinoLand/SM_JurassicGate_L.FBX
 - Assets/Props/DinoLand/SM_Brontosaurus.FBX
+- Assets/Props/DinoLand/SM_DinoEgg.FBX
 - Assets/Props/DinoLand/SM_WoodenFencePost.FBX
 - Assets/Props/DinoLand/SM_Velociraptor.FBX
 - Assets/Props/DinoLand/SM_HiddenFencePost.FBX
 - Assets/Props/DinoLand/SM_JurassicArrowPost.FBX
 - Assets/Props/DinoLand/SM_BushFence.FBX
+- Assets/Props/DinoLand/SM_DinoEggSmall.FBX
 - Assets/Props/DinoLand/SM_JurassicFencePost.FBX
 - Assets/Props/DinoLand/SM_DinoHangingBanner.FBX
 - Assets/Props/DinoLand/SM_DinoRibCage.FBX
@@ -59,6 +61,7 @@ Assets:
 - Assets/Props/DinoLand/SM_JurassicFence.FBX
 - Assets/Props/DinoLand/SM_WoodenFence.FBX
 - Assets/Props/DinoLand/SM_TRex.FBX
+- Assets/Props/DinoLand/SM_DinoEggBig.FBX
 - Assets/Props/DinoLand/SM_BoneBench.FBX
 - Assets/Props/DinoLand/SM_DinoCage_Broken.FBX
 - Assets/Props/DinoLand/SM_BreadPalm.FBX

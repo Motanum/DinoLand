@@ -15,7 +15,7 @@
     "heightDelta": 0.5,
     "grid": false
   },
-  "Brontosaurus (Grid)": {
+  "Brontosaurus Grid": {
     "model": "SM_Brontosaurus_1Tile",
     "type": "deco",
     "price": 50.0,
@@ -100,7 +100,7 @@
     "type": "deco",
     "price": 50.0
   },
-  "Palm Tree (Big)": {
+  "Palm Tree Big": {
     "model": "SM_PalmTree_Big",
     "type": "deco",
     "price": 50.0
@@ -165,7 +165,7 @@
       "color1": "#644D25"
     }
   },
-  "Dinosaur Footprint (Small)": {
+  "Dinosaur Footprint Small": {
     "model": "SM_DinoFootPrint_small",
     "type": "deco",
     "price": 2.0,
@@ -214,7 +214,7 @@
     "model": "SM_JurassicArrowPost",
     "type": "deco",
     "price": 20.0
-  }
+  },
   "Dino Standing Banner": {
     "model": "SM_DinoStandingBanner",
     "type": "deco",
@@ -237,6 +237,32 @@
       "color2": "#242424",
       "color3": "#E90000"
     }
+  },
+  "Dino Egg": {
+    "model": "SM_DinoEgg",
+    "type": "deco",
+    "price": 10.0,
+    "recolorable": true,
+    "recolorableOptions": {
+      "color1": "#BF0000"
+    }
+  },
+  "Dino Egg Small": {
+    "model": "SM_DinoEggSmall",
+    "type": "deco",
+    "price": 7.5,
+    "recolorable": true,
+    "recolorableOptions": {
+      "color1": "#BF0000"
+    }
+  },
+  "Dino Egg Big": {
+    "model": "SM_DinoEggBig",
+    "type": "deco",
+    "price": 12.5,
+    "recolorable": true,
+    "recolorableOptions": {
+      "color1": "#BF0000"
+    }
   }
 }
-
