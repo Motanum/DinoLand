@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1557479155
+CRC: 3344235000
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a0d91b441ea99a35b4bfb08595ebd1a7
+    Hash: 6d058e71ac255a515654278069e8e88b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 25d46138f9c32e46e275d41d911da9d1
@@ -42,6 +42,7 @@ Assets:
 - Assets/Props/DinoLand/SM_JurassicArrowPost.FBX
 - Assets/Props/DinoLand/SM_BushFence.FBX
 - Assets/Props/DinoLand/SM_JurassicFencePost.FBX
+- Assets/Props/DinoLand/SM_DinoHangingBanner.FBX
 - Assets/Props/DinoLand/SM_DinoRibCage.FBX
 - Assets/Props/DinoLand/SM_CementStepFence_Post.FBX
 - Assets/Props/DinoLand/SM_JurassicGate_R.FBX
@@ -49,6 +50,7 @@ Assets:
 - Assets/Props/DinoLand/SM_CementStepFence.FBX
 - Assets/Props/DinoLand/SM_DinoCage.FBX
 - Assets/Props/DinoLand/SM_DinoFootPrint.FBX
+- Assets/Props/DinoLand/SM_DinoSignageSimple.FBX
 - Assets/Props/DinoLand/SM_PalmTree.FBX
 - Assets/Props/DinoLand/SM_DinoSignage.FBX
 - Assets/Props/DinoLand/SM_EggTrashCan.FBX
@@ -62,6 +64,7 @@ Assets:
 - Assets/Props/DinoLand/SM_BreadPalm.FBX
 - Assets/Props/DinoLand/SM_DinoFloorBush.FBX
 - Assets/Props/DinoLand/SM_PalmTree_Big.FBX
+- Assets/Props/DinoLand/SM_DinoStandingBanner.FBX
 - Assets/Props/DinoLand/SM_JurassicFence_Broken.FBX
 - Assets/Props/DinoLand/SM_EggTrashCan_b.FBX
 - Assets/Props/DinoLand/SM_BigTallGrass.FBX
