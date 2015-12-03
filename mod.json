@@ -1,6 +1,5 @@
 {
     "BaseDir": "",
-    "EntryPoint": "Custom_Scenery.Main",
     "IsDevelopment": true,
     "Name": "Dino Land",
     "Project": "Custom Scenery.csproj",
