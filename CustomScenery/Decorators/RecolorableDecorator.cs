@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -25,25 +25,53 @@ namespace Custom_Scenery.Decorators
 
                 if (options.ContainsKey("recolorableOptions"))
                 {
-                    Dictionary<string, object> clrs = (Dictionary <string, object>)options["recolorableOptions"];
+                    Dictionary<string, object> clrs = (Dictionary<string, object>)options["recolorableOptions"];
 
                     foreach (KeyValuePair<string, object> clr in clrs)
                     {
                         colors.Add(FromHex((string)clr.Value));
                     }
                 }
-
-                cc.customColors = colors.ToArray();
                 
-                foreach (Material material in Resources.FindObjectsOfTypeAll<Material>())
+                cc.setColors(colors.ToArray());
+                
+                foreach (Material material in AssetManager.Instance.objectMaterials)
                 {
                     if (material.name == "CustomColorsDiffuse")
                     {
-                        go.GetComponentInChildren<Renderer>().sharedMaterial = material;
+                        SetMaterial(go, material);
+
+                        // edge case for fences
+                        Fence fence = go.GetComponent<Fence>();
+
+                        if (fence != null)
+                        {
+                            if (fence.flatGO != null)
+                            {
+                                SetMaterial(fence.flatGO, material);
+                            }
+
+                            if (fence.postGO != null)
+                            {
+                                SetMaterial(fence.postGO, material);
+                            }
+                        }
 
                         break;
                     }
                 }
+            }
+        }
+
+        private void SetMaterial(GameObject go, Material material)
+        {
+            // Go through all child objects and recolor		
+            Renderer[] renderCollection;
+            renderCollection = go.GetComponentsInChildren<Renderer>();
+
+            foreach (Renderer render in renderCollection)
+            {
+                render.sharedMaterial = material;
             }
         }
 
